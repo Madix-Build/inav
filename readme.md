@@ -19,6 +19,7 @@
 > ```GPS: HW Version: Unknown Proto: 0.00 Baud: 115200 (UBLOX Proto >= 15.0 required)```
 
 
+
 > M8, M9 and M10 GPS are the most common units in use today, are readly available and have similar capabilities.
 >Mantaining and testing GPS changes across this many UBLOX versions is a challenge and takes a lot of time. Removing the support for older devices will simplify code.
 
